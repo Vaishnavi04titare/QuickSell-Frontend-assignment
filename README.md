@@ -1,3 +1,5 @@
+https://quicksell-assignment-zeta-self.vercel.app/
+
 Kanban Board Application
 This project is a Kanban board built with React that allows users to group and sort tickets by status, user, and priority. It fetches ticket data from an external API and displays it in columns with flexible sorting and grouping options.
 
